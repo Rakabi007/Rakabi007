@@ -1,27 +1,225 @@
-# 💫 About Me:
-AI Engineer@OptimumAI | Full-Stack AI Developer | RAG Systems Architect | Python | REST| MLOps| LLM Agents| LLMOps| LangChain| AWS|LangGraph| LLamaIndex|
+<div align="center">
 
+<!-- Typing SVG Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rana+Kabiraj;AI+Engineer+%7C+RAG+Architect+%7C+LLM+Specialist;Building+Intelligent+Systems+That+Scale)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rana-kabiraj-991495167/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rana Kabiraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranakabiraj88@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rana%20Kabiraj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20GenAI%20Systems%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rakabi007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rakabi007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakabi007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rakabi007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakabi007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rakabi007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 Introduction
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```python
+class RanaKabiraj:
+    name       = "Rana Kabiraj"
+    role       = "AI Engineer @ OptimumAI"
+    location   = "Kolkata, West Bengal 🇮🇳"
+    focus      = ["LLM Systems", "RAG Architectures", "LLMOps"]
+    passion    = "Turning cutting-edge AI research into production-grade systems"
+    goal       = "Build AI that is fast, reliable, and genuinely useful"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something remarkable.")
+```
+
+<br clear="both"/>
+
+---
+
+## 🚀 About Me
+
+I'm a **GenAI / AI Engineer** with a background in both enterprise engineering (Amazon) and AI product development (OptimumAI). I specialize in building **production-ready LLM systems** — from multi-agent pipelines and advanced RAG architectures to semantic SQL engines and LLMOps infrastructure.
+
+- 🔭 &nbsp; Currently building **AI-driven SaaS platforms** with multi-agent orchestration
+- 🧠 &nbsp; Deep expertise in **RAG systems** — standard, corrective, adaptive, agentic & multimodal
+- ⚙️ &nbsp; Passionate about **MLOps** and deploying robust AI at scale with FastAPI, Docker & AWS
+- 💡 &nbsp; Ex-Amazon (Senior Associate, Regulatory Compliance Operations) — I understand enterprise scale
+- 🎯 &nbsp; Career goal: Lead AI infrastructure at a company pushing the frontier of intelligent systems
+- 🌱 &nbsp; Always learning — currently deep-diving into **LangGraph state machines** and **PEFT fine-tuning**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / LLM Ecosystem
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=for-the-badge&logo=llama&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-F97316?style=for-the-badge&logo=robotframework&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Databases & Vector Stores
+![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logo=databricks&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+### 📊 ML / Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F79316?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rakabi007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Rakabi007&theme=tokyonight&hide_border=false" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakabi007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakabi007&theme=tokyo-night&area=true&hide_border=true)
+
+</div>
+
+<!-- Snake Contribution Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakabi007/Rakabi007/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakabi007/Rakabi007/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rakabi007/Rakabi007/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 🛠 Tech | 🔗 Link |
+|:---:|:---|:---:|:---:|
+| **Multi-Query RAG Pipeline** | Production-grade RAG system for economic sector analysis — multi-query decomposition, hybrid search, re-ranking, and RAGAS evaluation. Built at OptimumAI. | `LangChain` `Pinecone` `FastAPI` `AWS` | [Repo](https://github.com/Rakabi007) |
+| **Semantic Text-to-SQL Engine** | Natural language → SQL pipeline with self-healing retry logic and schema-aware query correction. Handles ambiguous queries gracefully. | `LlamaIndex` `PostgreSQL` `pgvector` `FastAPI` | [Repo](https://github.com/Rakabi007) |
+| **FinLat Financial AI Advisor** | Multi-agent financial advisor and educator powered by CrewAI and Streamlit. Provides real-time market insights via LLM-driven agent collaboration. | `CrewAI` `Streamlit` `Python` `OpenAI` | [Repo](https://github.com/Rakabi007/FinLat-crew) |
+| **Financial Advisor with CrewAI** | Standalone AI financial advisor using autonomous agent workflows for portfolio analysis and investment recommendations. | `CrewAI` `Python` `LangChain` | [Repo](https://github.com/Rakabi007/Financial-Advisor-With-Crew-AI) |
+| **AI_Fin — Financial Analysis Notebooks** | Research notebooks exploring LLM-driven financial data analysis, semantic search over financial documents, and RAG pipelines for Q&A. | `Jupyter` `Python` `Pandas` `OpenAI` | [Repo](https://github.com/Rakabi007/AI_Fin) |
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```mermaid
+graph LR
+    A[🔬 Current Focus] --> B[LangGraph\nState Machines]
+    A --> C[PEFT Fine-Tuning\nLoRA & QLoRA]
+    A --> D[Agentic RAG\nSelf-Correction Loops]
+    A --> E[Multimodal\nRAG Pipelines]
+    A --> F[LLM Inference\nOptimization]
+```
+
+- 🕸️ **LangGraph** — Building cyclical, stateful agent workflows for complex reasoning chains
+- 🎛️ **PEFT / QLoRA** — Efficient fine-tuning of LLMs on domain-specific data with limited compute
+- 🔄 **Adaptive RAG** — Self-correcting retrieval pipelines with query routing and fallback strategies
+- 🖼️ **Multimodal RAG** — Extending RAG to handle PDFs, images, and structured data simultaneously
+- 📐 **LLM Evaluation** — RAGAS, deepeval frameworks for systematic LLM pipeline quality assessment
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-kabiraj-991495167/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakabi007)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranakabiraj88@gmail.com)
+[![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@RanaKabiraj)
+
+</div>
+
+<div align="center">
+
+> 💬 **Open to:** GenAI / AI Engineer roles at ambitious startups and MNCs  
+> 📍 **Based in:** Kolkata, West Bengal, India — open to remote & hybrid
+
+</div>
+
+---
+
+## ⚡ Fun Fact / Personal Touch
+
+<div align="center">
+
+```
+🧩 I used to enforce regulatory compliance at Amazon — now I build AI agents 
+   that understand the rules themselves.
+
+   The leap from "checking if humans follow rules" to "teaching machines to 
+   reason about rules" was the most natural pivot I never planned for.
+
+   Every RAG pipeline I build is, in some ways, a system that answers the 
+   question: "Given everything we know, what should we do next?" 
+
+   Turns out, that's the same question that kept me up at Amazon too.
+```
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rakabi007&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### ✍️ Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Rakabi007&icon=6&color=6)
+
+**⭐ If you find my work useful, consider giving repos a star — it means a lot!**
+
+</div>
